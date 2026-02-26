@@ -3,7 +3,7 @@ Where thoughts becomes codes/.
 
 # Hey—thanks for opening this file.
 
-Welcome to my **coded knowledge base directory**: a place where I store the stuff I’d usually scribble on paper (steps, setups, “how did I fix that?” moments), but **organized, searchable, and built to last**.
+Welcome to my **coded knowledge base directory**: my name is tanmay and this is a place where I store the stuff I’d usually scribble on paper (steps, setups, “how did I fix that?” moments), but **organized, searchable, and built to last**.
 
 ```
 
