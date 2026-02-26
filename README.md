@@ -5,7 +5,7 @@ Where thoughts becomes codes/.
 
 Welcome to my **coded knowledge base directory**: a place where I store the stuff I’d usually scribble on paper (steps, setups, “how did I fix that?” moments), but **organized, searchable, and built to last**.
 
-
+```
 
 +88_
 _+880_
@@ -47,7 +47,7 @@ It’s meant to be practical: short files, clear steps, easy updates.
 
 
 
-
+```
 
 
 
