@@ -35,9 +35,9 @@ For **every** problem, follow these 4 steps in order:
 
 ## Day 2
 
-- [ ] Print 20 to 1 (countdown)
-- [ ] Print odd numbers from 1 to 50
-- [ ] Sum of even numbers from 1 to 100
+- [x] Print 20 to 1 (countdown)
+- [x] Print odd numbers from 1 to 50
+- [x] Sum of even numbers from 1 to 100
 - [ ] Sum of digits in 12345 (expected: 1+2+3+4+5 = 15)
 - [ ] Check if "madam" is a palindrome (print true/false)
 
