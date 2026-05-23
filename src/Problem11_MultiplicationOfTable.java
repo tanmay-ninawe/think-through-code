@@ -10,13 +10,6 @@ public class Problem11_MultiplicationOfTable {
     int res1 = digit*i;
 
     System.out.println(digit + "x" + i + " = " + res1);
-   } 
-
-    
-
-    
-
-
-    
+   }
 }
 }
