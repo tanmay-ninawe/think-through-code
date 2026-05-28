@@ -38,26 +38,26 @@ For **every** problem, follow these 4 steps in order:
 - [x] Print 20 to 1 (countdown)
 - [x] Print odd numbers from 1 to 50
 - [x] Sum of even numbers from 1 to 100
-- [ ] Sum of digits in 12345 (expected: 1+2+3+4+5 = 15)
-- [ ] Check if "madam" is a palindrome (print true/false)
+- [x] Sum of digits in 12345 (expected: 1+2+3+4+5 = 15)
+- [x] Check if "madam" is a palindrome (print true/false)
 
 ---
 
 ## Day 3
 
-- [ ] Print multiplication table of 7 (7×1=7 up to 7×10=70)
-- [ ] Find largest of 3 numbers: 24, 67, 19
-- [ ] Count vowels in "automation engineer"
-- [ ] Reverse a number: 12345 → 54321
-- [ ] Check if 17 is prime (print true/false)
+- [x] Print multiplication table of 7 (7×1=7 up to 7×10=70)
+- [x] Find largest of 3 numbers: 24, 67, 19
+- [x] Count vowels in "automation engineer"
+- [x] Reverse a number: 12345 → 54321
+- [x] Check if 17 is prime (print true/false)
 
 ---
 
 ## Day 4
 
-- [ ] Print all factors of 36
-- [ ] Factorial of 6 (expected: 720)
-- [ ] Check if a number is a palindrome: 121 → true, 123 → false
+- [x] Print all factors of 36
+- [x] Factorial of 6 (expected: 720)
+- [x] Check if a number is a palindrome: 121 → true, 123 → false
 - [ ] Count uppercase letters in "Tanmay Loves Java"
 - [ ] Swap two numbers a=5, b=10 without using a third variable
 
