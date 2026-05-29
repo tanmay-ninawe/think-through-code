@@ -58,7 +58,7 @@ For **every** problem, follow these 4 steps in order:
 - [x] Print all factors of 36
 - [x] Factorial of 6 (expected: 720)
 - [x] Check if a number is a palindrome: 121 → true, 123 → false
-- [ ] Count uppercase letters in "Tanmay Loves Java"
+- [x] Count uppercase letters in "Tanmay Loves Java"
 - [ ] Swap two numbers a=5, b=10 without using a third variable
 
 ---
