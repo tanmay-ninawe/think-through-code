@@ -59,13 +59,13 @@ For **every** problem, follow these 4 steps in order:
 - [x] Factorial of 6 (expected: 720)
 - [x] Check if a number is a palindrome: 121 → true, 123 → false
 - [x] Count uppercase letters in "Tanmay Loves Java"
-- [ ] Swap two numbers a=5, b=10 without using a third variable
+- [x] Swap two numbers a=5, b=10 without using a third variable
 
 ---
 
 ## Day 5
 
-- [ ] Print first 10 multiples of 9
+- [x] Print first 10 multiples of 9
 - [ ] Find smallest of 3 numbers: 88, 12, 45
 - [ ] Print sum of all odd numbers from 1 to 50
 - [ ] Count how many times 'a' appears in "automation"
