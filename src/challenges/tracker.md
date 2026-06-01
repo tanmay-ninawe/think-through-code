@@ -66,9 +66,9 @@ For **every** problem, follow these 4 steps in order:
 ## Day 5
 
 - [x] Print first 10 multiples of 9
-- [ ] Find smallest of 3 numbers: 88, 12, 45
-- [ ] Print sum of all odd numbers from 1 to 50
-- [ ] Count how many times 'a' appears in "automation"
+- [x] Find smallest of 3 numbers: 88, 12, 45
+- [x] Print sum of all odd numbers from 1 to 50
+- [x] Count how many times 'a' appears in "automation"
 - [ ] Check if "tanmay" and "manyat" are anagrams (true/false)
 
 ---
